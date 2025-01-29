@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "PdfDemoApplication"
 include(":app")
- 
